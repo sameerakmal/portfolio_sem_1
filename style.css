@@ -1,0 +1,102 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-image: url(/Images/—Pngtree—abstract\ playful\ portfolio\ pink\ memphis_1347357.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    font-family: 'Poppins';
+    color: #1D3557;
+
+}
+
+
+.first{
+    border: 2px solid red;
+    position: relative;
+    height: 84vh;
+    top: 15vh;
+    left: 5vw;
+    width: 90vw;
+
+
+}
+.hello{
+    /* border: 2px solid green; */
+    position: absolute;
+    height: 25vh;
+    top: 0vh;
+    left: 5vw;
+    width: 50vw;
+    font-size:70px;
+
+}
+.name{
+    /* border: 2px solid yellow; */
+    position: absolute;
+    height: 25vh;
+    top: 19vh;
+    width: 60vw;
+    left: 32vw;
+    font-size: 70px;
+
+}
+.name h1{
+    display: inline;
+}
+#sam{
+    color: #E63946;
+}
+.student{
+    /* border: 2px solid blue; */
+    position: absolute;
+    height: 10vh;
+    top: 48vh;
+    left: 25vw;
+    width: 50vw;
+    font-size: 25px;
+}
+.check{
+    /* border: 2px solid darkorchid; */
+    position: relative;
+    width: 50vw;
+    left: 50vw;
+}
+.profile{
+    /* border: 2px solid green; */
+    position: absolute;
+    height: 10vh;
+    width: 50vw;
+    left: 23vw;
+    top: 60vh;
+    font-size: 20px;
+    
+}
+.second{
+    border: 2px solid green;
+    position: relative;
+    height: 100vh;
+    top: 15vh;
+}
+.heading{
+    border: 2px solid blue;
+    position: absolute;
+    height: 20vh;
+    top: 5vh;
+    width: 70vw;
+    left: 27vw;
+    font-size: 50px;
+}
+.heading h1{
+    display: inline;
+}
+#pro{
+    color: #E63946;
+}
+.third{
+    border: 2px solid hotpink;
+
+}
