@@ -15,7 +15,7 @@ body{
 
 
 .first{
-    border: 2px solid red;
+    /* border: 2px solid red; */
     position: relative;
     height: 84vh;
     top: 15vh;
@@ -76,13 +76,21 @@ body{
     
 }
 .second{
-    border: 2px solid green;
+    /* border: 2px solid green; */
     position: relative;
     height: 100vh;
     top: 15vh;
 }
+
+.heading h1{
+    display: inline;
+}
+#pro{
+    color: #E63946;
+}
+
 .heading{
-    border: 2px solid blue;
+    /* border: 2px solid blue; */
     position: absolute;
     height: 20vh;
     top: 5vh;
@@ -90,13 +98,154 @@ body{
     left: 27vw;
     font-size: 50px;
 }
-.heading h1{
-    display: inline;
+.shopsy{
+    position: absolute;
+    /* border: 2px solid green ; */
+    height: 45vh;
+    top: 35vh;
+    left: 5vw;
+    width: 36.4vw;
 }
-#pro{
-    color: #E63946;
+.cola{
+    position: absolute;
+    border: 2px solid red;
+    height: 45vh;
+    top: 35vh;
+    left: 55vw;
+    width: 36.4vw;
 }
 .third{
-    border: 2px solid hotpink;
+    /* border: 2px solid blue; */
+    position: relative;
+    top: 15vh;
+    height: 100vh;
+    
+}
+.education{
+     /* border: 2px solid greenyellow; */
+     color: #E63946;
+     position: absolute;
+     height: 20vh;
+     top: 5vh;
+     width: 70vw;
+     left: 15vw;
+     font-size: 50px;
+}
+.outline{
+    /* border: 2px solid green; */
+    position: absolute;
+    top: 40vh;
+    height: 35vh;
+    width: 98.5vw;
+    display: flex;
+    justify-content: space-around;
+}
+.iitg{
+    /* border: 2px solid grey ; */
+    height: 35vh;
+    width: 25vw;
+    position: relative;
+    
+}
+.sasi{
+    /* border: 2px solid yellow ; */
+    height: 35vh;
+    width: 25vw;
+    position: relative;
+}
+.stanns{
+    /* border: 2px solid black ; */
+    height: 35vh;
+    width: 25vw;
+    position: relative;
+}
+.collname {
+    /* border: 2px solid brown; */
+    height: 11.6vh;
+    width: 25vw;
+    position: absolute;
+    top: 0;
+    left: 0;
+    font-size: 3em;
+    text-align: center;
+    color: #E63946;
+
 
 }
+.tenure{
+    /* border: 2px solid rosybrown; */
+    height: 11.6vh;
+    width: 25vw;
+    position: absolute;
+    top: 11.6vh;
+    left: 0;
+    font-size: 3em;
+    text-align: center;
+}
+.marks{
+    /* border: 2px solid purple; */
+    height: 11.6vh;
+    width: 25vw;
+    position: absolute;
+    top: 23.2vh;
+    left: 0;
+    font-size: 3em;
+    text-align: center;
+}
+.fourth{
+    /* border: 2px solid greenyellow; */
+    position: relative;
+    top: 15vh;
+    height: 100vh;
+}
+.contact{
+     /* border: 2px solid greenyellow; */
+     position: absolute;
+     height: 20vh;
+     top: 5vh;
+     width: 70vw;
+     left: 15vw;
+     font-size: 50px;
+     text-align: center;
+}
+.contact h1{
+    display: inline;
+}
+#con{
+    color: #E63946;
+}
+.outline2{
+    /* border: 2px solid green; */
+    position: absolute;
+    top: 40vh;
+    height: 35vh;
+    width: 98.5vw;
+    display: flex;
+    justify-content: space-around;
+}
+.mail{
+    /* border: 2px solid grey ; */
+    height: 35vh;
+    width: 13vw;
+    position: relative;
+    
+}
+.github{
+    /* border: 2px solid yellow ; */
+    height: 35vh;
+    width: 13vw;
+    position: relative;
+}
+.linkedin{
+    /* border: 2px solid black ; */
+    height: 35vh;
+    width: 13vw;
+    position: relative;
+}
+.insta{
+    /* border: 2px solid black ; */
+    height: 35vh;
+    width: 13vw;
+    position: relative;
+}
+
